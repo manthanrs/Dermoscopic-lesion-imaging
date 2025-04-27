@@ -6,7 +6,7 @@ Diagnosis on dermoscopic lesion images is a multi-class problem, as each image i
 
 # Goal
 
-Submit automated predictions of disease classification within dermoscopic images.
+Build automated predictions of disease classification within dermoscopic images.
 Possible disease categories are:
 
 1. Melanoma (MEL)
